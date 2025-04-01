@@ -23,7 +23,3 @@ def grades_menu():
         
         
 grades_menu()
-
-
-
-#ターミナル起動　python3 ~/test/grades/main.py
